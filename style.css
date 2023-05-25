@@ -1,0 +1,46 @@
+/* Custom styles */
+.ui-page {
+    background-color: #f1f1f1;
+    color: #333333;
+}
+
+.ui-header {
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+}
+
+.ui-content {
+    margin: 20px;
+}
+
+.ui-footer {
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+}
+
+.ui-btn {
+    background-color: #42b883;
+    border-color: #42b883;
+    color: #ffffff;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: #333333;
+}
+
+.ui-field-contain {
+    margin-bottom: 20px;
+}
+
+.ui-input-text {
+    border-color: #42b883;
+}
+
+.ui-checkbox label, .ui-radio label {
+    color: #333333;
+}
